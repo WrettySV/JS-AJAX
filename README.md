@@ -1,4 +1,4 @@
-#JS-AJAX Homework
+# JS-AJAX Homework
 
 - Используется свободное API TVmaze (http://www.tvmaze.com/api)
 для реализации функции поиска и отображения подробной информации о выбранном
